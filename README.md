@@ -16,3 +16,21 @@ Data Dictionary for Market Segmentation:
 5.  credit_limit: Limit of the amount in credit card (10000s)
 6.  min_payment_amt : minimum paid by the customer while making payments for purchases made monthly (in 100s)
 7.  max_spent_in_single_shopping: Maximum amount spent in one purchase (in 1000s)
+
+
+CART-RF-ANN
+
+An Insurance firm providing tour insurance is facing higher claim frequency. The management decides to collect data from the past few years. You are assigned the task to make a model which predicts the claim status and provide recommendations to management. Use CART & RF and compare the models' performances in train and test sets.
+
+Attribute Information:
+
+1. Target: Claim Status (Claimed)
+2. Code of tour firm (Agency_Code)
+3. Type of tour insurance firms (Type)
+4. Distribution channel of tour insurance agencies (Channel)
+5. Name of the tour insurance products (Product)
+6. Duration of the tour (Duration in days)
+7. Destination of the tour (Destination)
+8. Amount worth of sales per customer in procuring tour insurance policies in rupees (in 100’s)
+9. The commission received for tour insurance firm (Commission is in percentage of sales)
+10.Age of insured (Age)
