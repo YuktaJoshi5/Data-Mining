@@ -2,7 +2,7 @@
 
 Data mining is the process of discovering patterns, relationships, anomalies, and useful information from large datasets. It involves using various techniques from statistics, machine learning, and database systems to analyze and interpret data. The goal of data mining is to extract valuable insights and knowledge from vast amounts of data, helping businesses and organizations make informed decisions
 
-##Clustering
+
 Clustering
 
 A leading bank wants to develop a customer segmentation to give promotional offers to its customers. They collected a sample that summarizes the activities of users during the past few months. You are given the task to identify the segments based on credit card usage.
